@@ -1,2 +1,2 @@
-# Certificate-Pricing
-This project explores different numerical and analytical techniques for pricing a financial certificate.
+# Introducion
+This project presents an analysis and pricing of a certificate using financial modeling techniques. The study focuses on deriving the upfront that the bank should receive under mid-market conditions. You can find a detailed description of the problem and techniques used in the \link report
